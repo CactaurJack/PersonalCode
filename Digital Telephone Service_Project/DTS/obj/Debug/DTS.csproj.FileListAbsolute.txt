@@ -1,0 +1,37 @@
+C:\Documents and Settings\Greg\My Documents\Fall '09\CIS 501\DTS_Project\DTS\bin\Debug\DTS.exe
+C:\Documents and Settings\Greg\My Documents\Fall '09\CIS 501\DTS_Project\DTS\bin\Debug\DTS.pdb
+C:\Documents and Settings\Greg\My Documents\Fall '09\CIS 501\DTS_Project\DTS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Greg\My Documents\Fall '09\CIS 501\DTS_Project\DTS\obj\Debug\DTS.AccessCodeDialog.resources
+C:\Documents and Settings\Greg\My Documents\Fall '09\CIS 501\DTS_Project\DTS\obj\Debug\DTS.AreaCodeDialog.resources
+C:\Documents and Settings\Greg\My Documents\Fall '09\CIS 501\DTS_Project\DTS\obj\Debug\DTS.ConnectedDialog.resources
+C:\Documents and Settings\Greg\My Documents\Fall '09\CIS 501\DTS_Project\DTS\obj\Debug\DTS.DTS.resources
+C:\Documents and Settings\Greg\My Documents\Fall '09\CIS 501\DTS_Project\DTS\obj\Debug\DTS.InputTenantDialog.resources
+C:\Documents and Settings\Greg\My Documents\Fall '09\CIS 501\DTS_Project\DTS\obj\Debug\DTS.ListDialog.resources
+C:\Documents and Settings\Greg\My Documents\Fall '09\CIS 501\DTS_Project\DTS\obj\Debug\DTS.LocateTenantDialog.resources
+C:\Documents and Settings\Greg\My Documents\Fall '09\CIS 501\DTS_Project\DTS\obj\Debug\DTS.MainMenuDialog.resources
+C:\Documents and Settings\Greg\My Documents\Fall '09\CIS 501\DTS_Project\DTS\obj\Debug\DTS.PasswordDialog.resources
+C:\Documents and Settings\Greg\My Documents\Fall '09\CIS 501\DTS_Project\DTS\obj\Debug\DTS.Properties.Resources.resources
+C:\Documents and Settings\Greg\My Documents\Fall '09\CIS 501\DTS_Project\DTS\obj\Debug\DTS.TelephoneDialog.resources
+C:\Documents and Settings\Greg\My Documents\Fall '09\CIS 501\DTS_Project\DTS\obj\Debug\DTS.TenantMenuDialog.resources
+C:\Documents and Settings\Greg\My Documents\Fall '09\CIS 501\DTS_Project\DTS\obj\Debug\DTS.csproj.GenerateResource.Cache
+C:\Documents and Settings\Greg\My Documents\Fall '09\CIS 501\DTS_Project\DTS\obj\Debug\DTS.exe
+C:\Documents and Settings\Greg\My Documents\Fall '09\CIS 501\DTS_Project\DTS\obj\Debug\DTS.pdb
+C:\Documents and Settings\Greg\My Documents\Past Semesters\Fall '09\CIS 501\DTS_Project\DTS\obj\Debug\DTS.exe
+C:\Documents and Settings\Greg\My Documents\Past Semesters\Fall '09\CIS 501\DTS_Project\DTS\obj\Debug\DTS.pdb
+C:\Users\Greg\Documents\Personal Code\Old School Stuff\Fall '09\CIS 501\DTS_Project\DTS\obj\Debug\DTS.exe
+C:\Users\Greg\Documents\Personal Code\Old School Stuff\Fall '09\CIS 501\DTS_Project\DTS\obj\Debug\DTS.pdb
+C:\Users\Greg\Documents\Personal Code\Old School Stuff\Fall '09\CIS 501\DTS_Project\DTS\bin\Debug\DTS.exe
+C:\Users\Greg\Documents\Personal Code\Old School Stuff\Fall '09\CIS 501\DTS_Project\DTS\bin\Debug\DTS.pdb
+C:\Users\Greg\Documents\Personal Code\Old School Stuff\Fall '09\CIS 501\DTS_Project\DTS\obj\Debug\DTS.AccessCodeDialog.resources
+C:\Users\Greg\Documents\Personal Code\Old School Stuff\Fall '09\CIS 501\DTS_Project\DTS\obj\Debug\DTS.AreaCodeDialog.resources
+C:\Users\Greg\Documents\Personal Code\Old School Stuff\Fall '09\CIS 501\DTS_Project\DTS\obj\Debug\DTS.ConnectedDialog.resources
+C:\Users\Greg\Documents\Personal Code\Old School Stuff\Fall '09\CIS 501\DTS_Project\DTS\obj\Debug\DTS.DTS.resources
+C:\Users\Greg\Documents\Personal Code\Old School Stuff\Fall '09\CIS 501\DTS_Project\DTS\obj\Debug\DTS.InputTenantDialog.resources
+C:\Users\Greg\Documents\Personal Code\Old School Stuff\Fall '09\CIS 501\DTS_Project\DTS\obj\Debug\DTS.ListDialog.resources
+C:\Users\Greg\Documents\Personal Code\Old School Stuff\Fall '09\CIS 501\DTS_Project\DTS\obj\Debug\DTS.LocateTenantDialog.resources
+C:\Users\Greg\Documents\Personal Code\Old School Stuff\Fall '09\CIS 501\DTS_Project\DTS\obj\Debug\DTS.MainMenuDialog.resources
+C:\Users\Greg\Documents\Personal Code\Old School Stuff\Fall '09\CIS 501\DTS_Project\DTS\obj\Debug\DTS.PasswordDialog.resources
+C:\Users\Greg\Documents\Personal Code\Old School Stuff\Fall '09\CIS 501\DTS_Project\DTS\obj\Debug\DTS.Properties.Resources.resources
+C:\Users\Greg\Documents\Personal Code\Old School Stuff\Fall '09\CIS 501\DTS_Project\DTS\obj\Debug\DTS.TelephoneDialog.resources
+C:\Users\Greg\Documents\Personal Code\Old School Stuff\Fall '09\CIS 501\DTS_Project\DTS\obj\Debug\DTS.TenantMenuDialog.resources
+C:\Users\Greg\Documents\Personal Code\Old School Stuff\Fall '09\CIS 501\DTS_Project\DTS\obj\Debug\DTS.csproj.GenerateResource.Cache

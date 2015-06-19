@@ -1,0 +1,4 @@
+C:\Users\Greg\Documents\Practice '13\WordAnalytics\WordAnalytics\bin\Debug\WordAnalytics.exe
+C:\Users\Greg\Documents\Practice '13\WordAnalytics\WordAnalytics\bin\Debug\WordAnalytics.pdb
+C:\Users\Greg\Documents\Practice '13\WordAnalytics\WordAnalytics\obj\x86\Debug\WordAnalytics.exe
+C:\Users\Greg\Documents\Practice '13\WordAnalytics\WordAnalytics\obj\x86\Debug\WordAnalytics.pdb

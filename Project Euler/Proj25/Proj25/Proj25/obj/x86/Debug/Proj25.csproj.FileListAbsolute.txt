@@ -1,0 +1,10 @@
+C:\Documents and Settings\Greg\Local Settings\Application Data\Temporary Projects\Proj25\bin\Debug\Proj25.exe
+C:\Documents and Settings\Greg\Local Settings\Application Data\Temporary Projects\Proj25\bin\Debug\Proj25.pdb
+C:\Documents and Settings\Greg\Local Settings\Application Data\Temporary Projects\Proj25\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Greg\Local Settings\Application Data\Temporary Projects\Proj25\obj\x86\Debug\Proj25.exe
+C:\Documents and Settings\Greg\Local Settings\Application Data\Temporary Projects\Proj25\obj\x86\Debug\Proj25.pdb
+C:\Documents and Settings\Greg\My Documents\Coding\Project Euler\Proj25\Proj25\Proj25\obj\x86\Debug\Proj25.exe
+C:\Documents and Settings\Greg\My Documents\Coding\Project Euler\Proj25\Proj25\Proj25\obj\x86\Debug\Proj25.pdb
+C:\Documents and Settings\Greg\My Documents\Coding\Project Euler\Proj25\Proj25\Proj25\bin\Debug\Proj25.exe
+C:\Documents and Settings\Greg\My Documents\Coding\Project Euler\Proj25\Proj25\Proj25\bin\Debug\Proj25.pdb
+C:\Documents and Settings\Greg\My Documents\Coding\Project Euler\Proj25\Proj25\Proj25\obj\x86\Debug\ResolveAssemblyReference.cache

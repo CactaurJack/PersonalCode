@@ -1,0 +1,5 @@
+C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\EmawContentPipelineExtension\bin\x86\Debug\EmawContentPipelineExtension.dll
+C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\EmawContentPipelineExtension\bin\x86\Debug\EmawContentPipelineExtension.pdb
+C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\EmawContentPipelineExtension\obj\x86\Debug\EmawContentPipelineExtension.csprojResolveAssemblyReference.cache
+C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\EmawContentPipelineExtension\obj\x86\Debug\EmawContentPipelineExtension.dll
+C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\EmawContentPipelineExtension\obj\x86\Debug\EmawContentPipelineExtension.pdb

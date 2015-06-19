@@ -1,0 +1,9 @@
+C:\Users\Greg\AppData\Local\Temporary Projects\Time Check\bin\Debug\Time Check.exe
+C:\Users\Greg\AppData\Local\Temporary Projects\Time Check\bin\Debug\Time Check.pdb
+C:\Users\Greg\AppData\Local\Temporary Projects\Time Check\obj\x86\Debug\Time Check.exe
+C:\Users\Greg\AppData\Local\Temporary Projects\Time Check\obj\x86\Debug\Time Check.pdb
+C:\Users\Greg\Documents\Personal Code\TimeCheck\Time Check\Time Check\obj\x86\Debug\Time Check.exe
+C:\Users\Greg\Documents\Personal Code\TimeCheck\Time Check\Time Check\obj\x86\Debug\Time Check.pdb
+C:\Users\Greg\Documents\Personal Code\TimeCheck\Time Check\Time Check\bin\Debug\Time Check.exe
+C:\Users\Greg\Documents\Personal Code\TimeCheck\Time Check\Time Check\bin\Debug\Time Check.pdb
+C:\Users\Greg\Documents\Personal Code\TimeCheck\Time Check\Time Check\obj\x86\Debug\Time Check.csprojResolveAssemblyReference.cache

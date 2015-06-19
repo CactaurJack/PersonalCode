@@ -1,0 +1,6 @@
+C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\EmawEngineLibrary\bin\x86\Debug\EmawEngineLibrary.dll
+C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\EmawEngineLibrary\bin\x86\Debug\EmawEngineLibrary.pdb
+C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\EmawEngineLibrary\obj\x86\Debug\EmawEngineLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\EmawEngineLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\EmawEngineLibrary\obj\x86\Debug\EmawEngineLibrary.dll
+C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\EmawEngineLibrary\obj\x86\Debug\EmawEngineLibrary.pdb

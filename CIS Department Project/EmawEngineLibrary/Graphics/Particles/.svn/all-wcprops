@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/emawengine/!svn/ver/312/branches/GroupABCD/EmawEngineLibrary/Graphics/Particles
+END
+ParticleEmitter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/emawengine/!svn/ver/286/branches/GroupABCD/EmawEngineLibrary/Graphics/Particles/ParticleEmitter.cs
+END
+BarrelSmokeParticleSystem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/emawengine/!svn/ver/299/branches/GroupABCD/EmawEngineLibrary/Graphics/Particles/BarrelSmokeParticleSystem.cs
+END
+ParticleVertex.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/emawengine/!svn/ver/286/branches/GroupABCD/EmawEngineLibrary/Graphics/Particles/ParticleVertex.cs
+END
+ParticleSettings.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/emawengine/!svn/ver/286/branches/GroupABCD/EmawEngineLibrary/Graphics/Particles/ParticleSettings.cs
+END
+SmallFireParticleSystem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/emawengine/!svn/ver/286/branches/GroupABCD/EmawEngineLibrary/Graphics/Particles/SmallFireParticleSystem.cs
+END
+DustParticleSystem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/emawengine/!svn/ver/312/branches/GroupABCD/EmawEngineLibrary/Graphics/Particles/DustParticleSystem.cs
+END
+ParticleSystem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/emawengine/!svn/ver/286/branches/GroupABCD/EmawEngineLibrary/Graphics/Particles/ParticleSystem.cs
+END
+EXPLOSIONparticleSystem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/emawengine/!svn/ver/291/branches/GroupABCD/EmawEngineLibrary/Graphics/Particles/EXPLOSIONparticleSystem.cs
+END
+ExhaustParticleSystem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/emawengine/!svn/ver/286/branches/GroupABCD/EmawEngineLibrary/Graphics/Particles/ExhaustParticleSystem.cs
+END
+SmokePlumeParticleSystem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/emawengine/!svn/ver/286/branches/GroupABCD/EmawEngineLibrary/Graphics/Particles/SmokePlumeParticleSystem.cs
+END
+WaterfallChurnParticleSystem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/emawengine/!svn/ver/286/branches/GroupABCD/EmawEngineLibrary/Graphics/Particles/WaterfallChurnParticleSystem.cs
+END
+WaterfallParticleSystem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/emawengine/!svn/ver/286/branches/GroupABCD/EmawEngineLibrary/Graphics/Particles/WaterfallParticleSystem.cs
+END

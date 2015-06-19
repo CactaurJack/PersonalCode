@@ -1,0 +1,7 @@
+CIS Linux commands
+
+gsmc *.cs
+
+runs using Program.exe plaintext crypttext key(28Hex)
+or
+Program.exe key plaintext

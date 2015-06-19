@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/emawengine/!svn/ver/286/branches/GroupABCD/ExampleGame/ExampleGame/GUI
+END
+NetworkMenuItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/emawengine/!svn/ver/286/branches/GroupABCD/ExampleGame/ExampleGame/GUI/NetworkMenuItem.cs
+END
+MenuFonts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/emawengine/!svn/ver/286/branches/GroupABCD/ExampleGame/ExampleGame/GUI/MenuFonts.cs
+END
+NetworkGameSelectionMenu.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/emawengine/!svn/ver/286/branches/GroupABCD/ExampleGame/ExampleGame/GUI/NetworkGameSelectionMenu.cs
+END
+NetworkMenu.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/emawengine/!svn/ver/286/branches/GroupABCD/ExampleGame/ExampleGame/GUI/NetworkMenu.cs
+END
+GameModeMenuItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/emawengine/!svn/ver/286/branches/GroupABCD/ExampleGame/ExampleGame/GUI/GameModeMenuItem.cs
+END
+GameModeMenu.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/emawengine/!svn/ver/286/branches/GroupABCD/ExampleGame/ExampleGame/GUI/GameModeMenu.cs
+END
+MenuItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/emawengine/!svn/ver/286/branches/GroupABCD/ExampleGame/ExampleGame/GUI/MenuItem.cs
+END
+NetworkGameNotFoundMenu.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/emawengine/!svn/ver/286/branches/GroupABCD/ExampleGame/ExampleGame/GUI/NetworkGameNotFoundMenu.cs
+END
+MainMenu.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/emawengine/!svn/ver/286/branches/GroupABCD/ExampleGame/ExampleGame/GUI/MainMenu.cs
+END

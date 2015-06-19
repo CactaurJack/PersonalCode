@@ -1,0 +1,544 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>DemoFont.spritefont</Source>
+      <Name>DemoFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\ExampleGame\ExampleGame\bin\x86\Debug\Content\DemoFont.xnb</Output>
+      <Time>2011-04-05T15:06:07.4375-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\TitleFont.spritefont</Source>
+      <Name>Fonts\TitleFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\ExampleGame\ExampleGame\bin\x86\Debug\Content\Fonts\TitleFont.xnb</Output>
+      <Time>2011-04-05T15:06:00.265625-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\MenuFont.spritefont</Source>
+      <Name>Fonts\MenuFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\ExampleGame\ExampleGame\bin\x86\Debug\Content\Fonts\MenuFont.xnb</Output>
+      <Time>2011-04-05T15:06:00.265625-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\SelectedFont.spritefont</Source>
+      <Name>Fonts\SelectedFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\ExampleGame\ExampleGame\bin\x86\Debug\Content\Fonts\SelectedFont.xnb</Output>
+      <Time>2011-04-05T15:06:00.28125-06:00</Time>
+    </Item>
+    <Item>
+      <Source>menuFont.spritefont</Source>
+      <Name>menuFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\ExampleGame\ExampleGame\bin\x86\Debug\Content\menuFont.xnb</Output>
+      <Time>2011-04-05T15:06:07.4375-06:00</Time>
+    </Item>
+    <Item>
+      <Source>gameFont.spritefont</Source>
+      <Name>gameFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\ExampleGame\ExampleGame\bin\x86\Debug\Content\gameFont.xnb</Output>
+      <Time>2011-04-05T15:06:07.4375-06:00</Time>
+    </Item>
+    <Item>
+      <Source>creditFont.spritefont</Source>
+      <Name>creditFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\ExampleGame\ExampleGame\bin\x86\Debug\Content\creditFont.xnb</Output>
+      <Time>2011-04-05T15:06:07.4375-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\ParticleEffect.fx</Source>
+      <Name>Effects\ParticleEffect</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\ExampleGame\ExampleGame\bin\x86\Debug\Content\Effects\ParticleEffect.xnb</Output>
+      <Time>2011-04-05T15:05:38.53125-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\Billboard.fx</Source>
+      <Name>Effects\Billboard</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\ExampleGame\ExampleGame\bin\x86\Debug\Content\Effects\Billboard.xnb</Output>
+      <Time>2011-04-05T15:05:38.53125-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Terrain\GrassLand\terrainEffect.fx</Source>
+      <Name>Terrain\GrassLand\terrainEffect</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\ExampleGame\ExampleGame\bin\x86\Debug\Content\Terrain\GrassLand\terrainEffect.xnb</Output>
+      <Time>2011-04-05T15:06:01.0625-06:00</Time>
+    </Item>
+    <Item>
+      <Source>menuTank.png</Source>
+      <Name>menuTank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\ExampleGame\ExampleGame\bin\x86\Debug\Content\menuTank.xnb</Output>
+      <Time>2011-04-05T15:06:07.4375-06:00</Time>
+    </Item>
+    <Item>
+      <Source>simeon.png</Source>
+      <Name>simeon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\ExampleGame\ExampleGame\bin\x86\Debug\Content\simeon.xnb</Output>
+      <Time>2011-04-05T15:06:07.453125-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Particles\explosion.png</Source>
+      <Name>Particles\explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\ExampleGame\ExampleGame\bin\x86\Debug\Content\Particles\explosion.xnb</Output>
+      <Time>2011-04-05T15:05:59.90625-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Particles\smoke.bmp</Source>
+      <Name>Particles\smoke</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\ExampleGame\ExampleGame\bin\x86\Debug\Content\Particles\smoke.xnb</Output>
+      <Time>2011-04-05T15:05:59.953125-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Particles\fire.png</Source>
+      <Name>Particles\fire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\ExampleGame\ExampleGame\bin\x86\Debug\Content\Particles\fire.xnb</Output>
+      <Time>2011-04-05T15:05:59.9375-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Particles\waterdrop.png</Source>
+      <Name>Particles\waterdrop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\ExampleGame\ExampleGame\bin\x86\Debug\Content\Particles\waterdrop.xnb</Output>
+      <Time>2011-04-05T15:05:59.953125-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Particles\bubble.png</Source>
+      <Name>Particles\bubble</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\ExampleGame\ExampleGame\bin\x86\Debug\Content\Particles\bubble.xnb</Output>
+      <Time>2011-04-05T15:05:59.953125-06:00</Time>
+    </Item>
+    <Item>
+      <Source>ui\splash.png</Source>
+      <Name>ui\splash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\ExampleGame\ExampleGame\bin\x86\Debug\Content\ui\splash.xnb</Output>
+      <Time>2011-04-05T15:06:07.40625-06:00</Time>
+    </Item>
+    <Item>
+      <Source>HealthBar.png</Source>
+      <Name>HealthBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\ExampleGame\ExampleGame\bin\x86\Debug\Content\HealthBar.xnb</Output>
+      <Time>2011-04-05T15:06:07.453125-06:00</Time>
+    </Item>
+    <Item>
+      <Source>HealthBarBackground.png</Source>
+      <Name>HealthBarBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\ExampleGame\ExampleGame\bin\x86\Debug\Content\HealthBarBackground.xnb</Output>
+      <Time>2011-04-05T15:06:07.453125-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Bullet.png</Source>
+      <Name>Bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\ExampleGame\ExampleGame\bin\x86\Debug\Content\Bullet.xnb</Output>
+      <Time>2011-04-05T15:06:07.453125-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Terrain\GrassLand\heightmap.bmp</Source>
+      <Name>Terrain\GrassLand\heightmap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\ExampleGame\ExampleGame\bin\x86\Debug\Content\Terrain\GrassLand\heightmap.xnb</Output>
+      <Time>2011-04-05T15:06:00.96875-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Terrain\GrassLand\lightmap.jpg</Source>
+      <Name>Terrain\GrassLand\lightmap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\ExampleGame\ExampleGame\bin\x86\Debug\Content\Terrain\GrassLand\lightmap.xnb</Output>
+      <Time>2011-04-05T15:06:01.03125-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Terrain\GrassLand\terrainNormals.png</Source>
+      <Name>Terrain\GrassLand\terrainNormals</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\ExampleGame\ExampleGame\bin\x86\Debug\Content\Terrain\GrassLand\terrainNormals.xnb</Output>
+      <Time>2011-04-05T15:06:00.984375-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Terrain\GrassLand\terrainTexture.jpg</Source>
+      <Name>Terrain\GrassLand\terrainTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\ExampleGame\ExampleGame\bin\x86\Debug\Content\Terrain\GrassLand\terrainTexture.xnb</Output>
+      <Time>2011-04-05T15:06:01.0625-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Skybox\sky.bmp</Source>
+      <Name>Skybox\sky</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>SkyboxProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\ExampleGame\ExampleGame\bin\x86\Debug\Content\Skybox\sky.xnb</Output>
+      <Time>2011-04-05T15:05:39.9375-06:00</Time>
+    </Item>
+    <Item>
+      <Source>HealthPowerup.png</Source>
+      <Name>HealthPowerup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\ExampleGame\ExampleGame\bin\x86\Debug\Content\HealthPowerup.xnb</Output>
+      <Time>2011-04-05T15:06:07.4375-06:00</Time>
+    </Item>
+    <Item>
+      <Source>AmmoPowerup.png</Source>
+      <Name>AmmoPowerup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\ExampleGame\ExampleGame\bin\x86\Debug\Content\AmmoPowerup.xnb</Output>
+      <Time>2011-04-05T15:06:07.4375-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Particles\Dust2.png</Source>
+      <Name>Particles\Dust2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\ExampleGame\ExampleGame\bin\x86\Debug\Content\Particles\Dust2.xnb</Output>
+      <Time>2011-04-05T15:05:59.90625-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\bark_loo.jpg</Source>
+      <Name>Models\bark_loo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\ExampleGame\ExampleGame\bin\x86\Debug\Content\Models\bark_loo.xnb</Output>
+      <Time>2011-04-05T15:05:56.46875-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\blatt1.jpg</Source>
+      <Name>Models\blatt1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\ExampleGame\ExampleGame\bin\x86\Debug\Content\Models\blatt1.xnb</Output>
+      <Time>2011-04-05T15:05:56.46875-06:00</Time>
+    </Item>
+    <Item>
+      <Source>blank.png</Source>
+      <Name>blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\ExampleGame\ExampleGame\bin\x86\Debug\Content\blank.xnb</Output>
+      <Time>2011-04-05T15:06:07.453125-06:00</Time>
+    </Item>
+    <Item>
+      <Source>splash.png</Source>
+      <Name>splash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\ExampleGame\ExampleGame\bin\x86\Debug\Content\splash.xnb</Output>
+      <Time>2011-04-05T15:06:07.46875-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Particles\barrelSmoke.png</Source>
+      <Name>Particles\barrelSmoke</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\ExampleGame\ExampleGame\bin\x86\Debug\Content\Particles\barrelSmoke.xnb</Output>
+      <Time>2011-04-05T15:05:59.9375-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Particles\Dusty.bmp</Source>
+      <Name>Particles\Dusty</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\ExampleGame\ExampleGame\bin\x86\Debug\Content\Particles\Dusty.xnb</Output>
+      <Time>2011-04-05T15:05:59.921875-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\tank.fbx</Source>
+      <Name>Models\tank</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>BoundingBoxModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">0.01</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\ExampleGame\ExampleGame\bin\x86\Debug\Content\Models\tank.xnb</Output>
+      <Time>2011-04-05T15:05:58.65625-06:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\tank_0.xml</Key>
+        <Value>2015-06-18T23:14:09.6289596-06:00</Value>
+      </Dependency>
+      <Request>C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\ExampleGame\ExampleGame\bin\x86\Debug\Content\Models\engine_diff_tex_0.xnb</Request>
+      <Request>C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\ExampleGame\ExampleGame\bin\x86\Debug\Content\Models\turret_alt_diff_tex_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\tree.x</Source>
+      <Name>Models\tree</Name>
+      <Importer>XImporter</Importer>
+      <Processor>TreeModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\ExampleGame\ExampleGame\bin\x86\Debug\Content\Models\tree.xnb</Output>
+      <Time>2011-04-05T15:05:56.34375-06:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\tree_0.xml</Key>
+        <Value>2015-06-18T23:14:15.773311-06:00</Value>
+      </Dependency>
+      <Request>C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\ExampleGame\ExampleGame\bin\x86\Debug\Content\Models\blatt1_0.xnb</Request>
+      <Request>C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\ExampleGame\ExampleGame\bin\x86\Debug\Content\Models\bark_loo_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Sounds\TankFire.wav</Source>
+      <Name>Sounds\TankFire</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\ExampleGame\ExampleGame\bin\x86\Debug\Content\Sounds\TankFire.xnb</Output>
+      <Time>2011-04-05T15:06:06.453125-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\TankEngineIdle.wav</Source>
+      <Name>Sounds\TankEngineIdle</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\ExampleGame\ExampleGame\bin\x86\Debug\Content\Sounds\TankEngineIdle.xnb</Output>
+      <Time>2011-04-05T15:06:06.5625-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\TankTurretTurning.wav</Source>
+      <Name>Sounds\TankTurretTurning</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\ExampleGame\ExampleGame\bin\x86\Debug\Content\Sounds\TankTurretTurning.xnb</Output>
+      <Time>2011-04-05T15:06:06.484375-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\BulletExplosion.wav</Source>
+      <Name>Sounds\BulletExplosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\ExampleGame\ExampleGame\bin\x86\Debug\Content\Sounds\BulletExplosion.xnb</Output>
+      <Time>2011-04-05T15:06:06.453125-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Anvil.wav</Source>
+      <Name>Sounds\Anvil</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\ExampleGame\ExampleGame\bin\x86\Debug\Content\Sounds\Anvil.xnb</Output>
+      <Time>2011-04-05T15:06:06.484375-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\GamePlaySong.wma</Source>
+      <Name>Sounds\GamePlaySong</Name>
+      <Importer>WmaImporter</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\ExampleGame\ExampleGame\bin\x86\Debug\Content\Sounds\GamePlaySong.xnb</Output>
+      <Extra>C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\ExampleGame\ExampleGame\bin\x86\Debug\Content\Sounds\GamePlaySong.wma</Extra>
+      <Time>2011-04-05T15:06:06.5625-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\MenuSong.wma</Source>
+      <Name>Sounds\MenuSong</Name>
+      <Importer>WmaImporter</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\ExampleGame\ExampleGame\bin\x86\Debug\Content\Sounds\MenuSong.xnb</Output>
+      <Extra>C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\ExampleGame\ExampleGame\bin\x86\Debug\Content\Sounds\MenuSong.wma</Extra>
+      <Time>2011-04-05T15:06:07.078125-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\tank.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\tank_0.xml</Output>
+      <Time>2011-04-05T15:05:58.65625-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\engine_diff_tex.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\ExampleGame\ExampleGame\bin\x86\Debug\Content\Models\engine_diff_tex_0.xnb</Output>
+      <Time>2011-04-05T15:05:58.015625-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\turret_alt_diff_tex.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\ExampleGame\ExampleGame\bin\x86\Debug\Content\Models\turret_alt_diff_tex_0.xnb</Output>
+      <Time>2011-04-05T15:05:58.46875-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\tree.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\tree_0.xml</Output>
+      <Time>2011-04-05T15:05:56.34375-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\blatt1.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\ExampleGame\ExampleGame\bin\x86\Debug\Content\Models\blatt1_0.xnb</Output>
+      <Time>2011-04-05T15:05:56.46875-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\bark_loo.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\ExampleGame\ExampleGame\bin\x86\Debug\Content\Models\bark_loo_0.xnb</Output>
+      <Time>2011-04-05T15:05:56.46875-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\ExampleGame\ExampleGameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\ExampleGame\ExampleGame\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\ExampleGame\ExampleGameContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\ExampleGame\ExampleGame\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T11:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T11:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T11:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T11:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T11:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T11:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Users\Greg\Documents\Personal Code\Old School Stuff\Spring '11\New Folder\EmawContentPipelineExtension\bin\x86\Debug\EmawContentPipelineExtension.dll</Key>
+        <Value>2015-06-18T23:14:04.7316795-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-11-03T00:20:18.5747186-06:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

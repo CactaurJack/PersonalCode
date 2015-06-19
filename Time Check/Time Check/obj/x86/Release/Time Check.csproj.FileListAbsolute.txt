@@ -1,0 +1,5 @@
+C:\Users\Greg\Documents\Personal Code\TimeCheck\Time Check\Time Check\bin\Release\Time Check.exe
+C:\Users\Greg\Documents\Personal Code\TimeCheck\Time Check\Time Check\bin\Release\Time Check.pdb
+C:\Users\Greg\Documents\Personal Code\TimeCheck\Time Check\Time Check\obj\x86\Release\Time Check.csprojResolveAssemblyReference.cache
+C:\Users\Greg\Documents\Personal Code\TimeCheck\Time Check\Time Check\obj\x86\Release\Time Check.exe
+C:\Users\Greg\Documents\Personal Code\TimeCheck\Time Check\Time Check\obj\x86\Release\Time Check.pdb

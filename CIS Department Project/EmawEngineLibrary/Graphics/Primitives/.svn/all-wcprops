@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/emawengine/!svn/ver/286/branches/GroupABCD/EmawEngineLibrary/Graphics/Primitives
+END
+SpherePrimitive.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/emawengine/!svn/ver/286/branches/GroupABCD/EmawEngineLibrary/Graphics/Primitives/SpherePrimitive.cs
+END
+CylinderPrimitive.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/emawengine/!svn/ver/286/branches/GroupABCD/EmawEngineLibrary/Graphics/Primitives/CylinderPrimitive.cs
+END
+CubePrimitive.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/emawengine/!svn/ver/286/branches/GroupABCD/EmawEngineLibrary/Graphics/Primitives/CubePrimitive.cs
+END
+GeometricPrimitive.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/emawengine/!svn/ver/286/branches/GroupABCD/EmawEngineLibrary/Graphics/Primitives/GeometricPrimitive.cs
+END

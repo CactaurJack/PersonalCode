@@ -1,0 +1,5 @@
+C:\Documents and Settings\Greg\My Documents\Coding\Project Euler\Proj13\Proj13\Proj13\bin\Debug\Proj13.exe
+C:\Documents and Settings\Greg\My Documents\Coding\Project Euler\Proj13\Proj13\Proj13\bin\Debug\Proj13.pdb
+C:\Documents and Settings\Greg\My Documents\Coding\Project Euler\Proj13\Proj13\Proj13\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Greg\My Documents\Coding\Project Euler\Proj13\Proj13\Proj13\obj\x86\Debug\Proj13.exe
+C:\Documents and Settings\Greg\My Documents\Coding\Project Euler\Proj13\Proj13\Proj13\obj\x86\Debug\Proj13.pdb

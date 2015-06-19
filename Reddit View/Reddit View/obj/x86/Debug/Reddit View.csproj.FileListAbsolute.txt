@@ -1,0 +1,17 @@
+C:\Users\Greg\AppData\Local\Temporary Projects\Reddit View\bin\Debug\Reddit View.exe
+C:\Users\Greg\AppData\Local\Temporary Projects\Reddit View\bin\Debug\Reddit View.pdb
+C:\Users\Greg\AppData\Local\Temporary Projects\Reddit View\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Greg\AppData\Local\Temporary Projects\Reddit View\obj\x86\Debug\Reddit_View.Properties.Resources.resources
+C:\Users\Greg\AppData\Local\Temporary Projects\Reddit View\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Greg\AppData\Local\Temporary Projects\Reddit View\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Greg\AppData\Local\Temporary Projects\Reddit View\obj\x86\Debug\Reddit View.exe
+C:\Users\Greg\AppData\Local\Temporary Projects\Reddit View\obj\x86\Debug\Reddit View.pdb
+C:\Users\Greg\AppData\Local\Temporary Projects\Reddit View\obj\x86\Debug\Reddit_View.Form1.resources
+C:\Users\Greg\Documents\Personal Code\Reddit View\Reddit View\obj\x86\Debug\Reddit View.exe
+C:\Users\Greg\Documents\Personal Code\Reddit View\Reddit View\obj\x86\Debug\Reddit View.pdb
+C:\Users\Greg\Documents\Personal Code\Reddit View\Reddit View\bin\Debug\Reddit View.exe
+C:\Users\Greg\Documents\Personal Code\Reddit View\Reddit View\bin\Debug\Reddit View.pdb
+C:\Users\Greg\Documents\Personal Code\Reddit View\Reddit View\obj\x86\Debug\Reddit_View.Properties.Resources.resources
+C:\Users\Greg\Documents\Personal Code\Reddit View\Reddit View\obj\x86\Debug\Reddit_View.RedditView.resources
+C:\Users\Greg\Documents\Personal Code\Reddit View\Reddit View\obj\x86\Debug\Reddit View.csprojResolveAssemblyReference.cache
+C:\Users\Greg\Documents\Personal Code\Reddit View\Reddit View\obj\x86\Debug\Reddit View.csproj.GenerateResource.Cache

@@ -1,0 +1,5 @@
+C:\Documents and Settings\Greg\My Documents\Coding\Project Euler\Proj11\Proj11\Proj11\bin\Debug\Proj11.exe
+C:\Documents and Settings\Greg\My Documents\Coding\Project Euler\Proj11\Proj11\Proj11\bin\Debug\Proj11.pdb
+C:\Documents and Settings\Greg\My Documents\Coding\Project Euler\Proj11\Proj11\Proj11\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Greg\My Documents\Coding\Project Euler\Proj11\Proj11\Proj11\obj\Debug\Proj11.exe
+C:\Documents and Settings\Greg\My Documents\Coding\Project Euler\Proj11\Proj11\Proj11\obj\Debug\Proj11.pdb

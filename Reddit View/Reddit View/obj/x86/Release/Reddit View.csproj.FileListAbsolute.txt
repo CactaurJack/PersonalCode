@@ -1,0 +1,9 @@
+C:\Users\Greg\Documents\Personal Code\Reddit View\Reddit View\bin\Release\Reddit View.exe
+C:\Users\Greg\Documents\Personal Code\Reddit View\Reddit View\bin\Release\Reddit View.pdb
+C:\Users\Greg\Documents\Personal Code\Reddit View\Reddit View\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Greg\Documents\Personal Code\Reddit View\Reddit View\obj\x86\Release\Reddit_View.Properties.Resources.resources
+C:\Users\Greg\Documents\Personal Code\Reddit View\Reddit View\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Greg\Documents\Personal Code\Reddit View\Reddit View\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Greg\Documents\Personal Code\Reddit View\Reddit View\obj\x86\Release\Reddit View.exe
+C:\Users\Greg\Documents\Personal Code\Reddit View\Reddit View\obj\x86\Release\Reddit View.pdb
+C:\Users\Greg\Documents\Personal Code\Reddit View\Reddit View\obj\x86\Release\Reddit_View.RedditView.resources

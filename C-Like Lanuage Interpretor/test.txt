@@ -1,0 +1,40 @@
+
+TEST CASES:
+
+
+var x;  x = 0                                                       DONE
+!
+
+DO IN STAGES, ADDING A LINE AT A TIME:
+var x;  x = new array[3];                                           DONE
+x[1] = 99 ; 
+x[2] = new array[2] ;
+x[2][0] = x[1];
+x[(0 + 0)] = x
+!
+
+DO IN STAGES:                                                       DONE
+var s;  s = new struct f, g end;
+s.f = 0;
+s.g = s.f;
+s.g = s
+!
+
+var x; proc p : x = 2 end;                                          DONE
+call p;
+print x;  print p
+!
+
+DO IN STAGES:                                                       DONE
+var s;
+proc p : s = 0 end;
+s = new struct f end; 
+s.f = new array[2]; 
+print s.f[0] ;
+print s.f ;
+call p ;
+s.f[0] = p
+!
+(Note: the interpreter should signal an error on the last command)
+
+

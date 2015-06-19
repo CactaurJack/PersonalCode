@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/emawengine/!svn/ver/293/branches/GroupABCD/EmawEngineLibrary/Messaging
+END
+PostMan.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/emawengine/!svn/ver/293/branches/GroupABCD/EmawEngineLibrary/Messaging/PostMan.cs
+END
+PostOffice.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/emawengine/!svn/ver/293/branches/GroupABCD/EmawEngineLibrary/Messaging/PostOffice.cs
+END
+MessageType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/emawengine/!svn/ver/287/branches/GroupABCD/EmawEngineLibrary/Messaging/MessageType.cs
+END
+IPostOffice.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/emawengine/!svn/ver/293/branches/GroupABCD/EmawEngineLibrary/Messaging/IPostOffice.cs
+END

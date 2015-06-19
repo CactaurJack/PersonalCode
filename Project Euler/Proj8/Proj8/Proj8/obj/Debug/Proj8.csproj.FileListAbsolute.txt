@@ -1,0 +1,5 @@
+C:\Documents and Settings\Greg\My Documents\Coding\Project Euler\Proj8\Proj8\Proj8\bin\Debug\Proj8.exe
+C:\Documents and Settings\Greg\My Documents\Coding\Project Euler\Proj8\Proj8\Proj8\bin\Debug\Proj8.pdb
+C:\Documents and Settings\Greg\My Documents\Coding\Project Euler\Proj8\Proj8\Proj8\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Greg\My Documents\Coding\Project Euler\Proj8\Proj8\Proj8\obj\Debug\Proj8.exe
+C:\Documents and Settings\Greg\My Documents\Coding\Project Euler\Proj8\Proj8\Proj8\obj\Debug\Proj8.pdb

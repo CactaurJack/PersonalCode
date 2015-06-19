@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/emawengine/!svn/ver/287/branches/GroupABCD/EmawEngineLibrary/Cameras
+END
+IFocusable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/emawengine/!svn/ver/286/branches/GroupABCD/EmawEngineLibrary/Cameras/IFocusable.cs
+END
+ICamera.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/emawengine/!svn/ver/287/branches/GroupABCD/EmawEngineLibrary/Cameras/ICamera.cs
+END
+ArcBallCamera.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/emawengine/!svn/ver/286/branches/GroupABCD/EmawEngineLibrary/Cameras/ArcBallCamera.cs
+END
+BasicCamera.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/emawengine/!svn/ver/287/branches/GroupABCD/EmawEngineLibrary/Cameras/BasicCamera.cs
+END
+ThirdPersonCamera.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/emawengine/!svn/ver/287/branches/GroupABCD/EmawEngineLibrary/Cameras/ThirdPersonCamera.cs
+END

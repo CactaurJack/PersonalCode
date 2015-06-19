@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{8577215A-7CE1-42A2-8679-45881C1A7C5E}</ProjectGuid>
+    <ProjectTypeGuids>{6D335F3A-9D43-41b4-9D22-F6F17C4BE596};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>EmawEngineLibrary</RootNamespace>
+    <AssemblyName>EmawEngineLibrary</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <XnaFrameworkVersion>v4.0</XnaFrameworkVersion>
+    <XnaPlatform>Windows</XnaPlatform>
+    <XnaProfile>HiDef</XnaProfile>
+    <XnaCrossPlatformGroupID>182b96d8-6181-4a48-84ef-93d2668487ea</XnaCrossPlatformGroupID>
+    <XnaOutputType>Library</XnaOutputType>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\x86\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;WINDOWS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <PlatformTarget>x86</PlatformTarget>
+    <XnaCompressContent>false</XnaCompressContent>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\x86\Release</OutputPath>
+    <DefineConstants>TRACE;WINDOWS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <PlatformTarget>x86</PlatformTarget>
+    <XnaCompressContent>true</XnaCompressContent>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Xna.Framework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.Game, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.Graphics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.GamerServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.Xact, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.Video, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.Avatar, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.Net, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.Storage, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="mscorlib">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Net">
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Cameras\IFocusable.cs" />
+    <Compile Include="Cameras\ThirdPersonCamera.cs" />
+    <Compile Include="Cameras\BasicCamera.cs" />
+    <Compile Include="Cameras\ICamera.cs" />
+    <Compile Include="Collisions\BoundingBoxWrapper.cs" />
+    <Compile Include="Collisions\BoundingOrientedBox.cs" />
+    <Compile Include="Collisions\BoundingSphereWrapper.cs" />
+    <Compile Include="Collisions\CollisionBox.cs" />
+    <Compile Include="Collisions\CollisionManager.cs" />
+    <Compile Include="Collisions\DebugDraw.cs" />
+    <Compile Include="Collisions\GeomUtil.cs" />
+    <Compile Include="Collisions\IBoundingObject.cs" />
+    <Compile Include="Collisions\ICollidable.cs" />
+    <Compile Include="Collisions\ICollisionManager.cs" />
+    <Compile Include="Collisions\IPosition.cs" />
+    <Compile Include="Collisions\TriangleTest.cs" />
+    <Compile Include="Graphics\Particles\BarrelSmokeParticleSystem.cs" />
+    <Compile Include="Graphics\Particles\DustParticleSystem.cs" />
+    <Compile Include="Graphics\Billboards\Billboard.cs" />
+    <Compile Include="Graphics\Billboards\BillboardVertex.cs" />
+    <Compile Include="Graphics\Grid.cs" />
+    <Compile Include="Graphics\Particles\ExhaustParticleSystem.cs" />
+    <Compile Include="Graphics\Particles\EXPLOSIONparticleSystem.cs" />
+    <Compile Include="Graphics\Particles\ParticleEmitter.cs" />
+    <Compile Include="Graphics\Particles\ParticleSettings.cs" />
+    <Compile Include="Graphics\Particles\ParticleSystem.cs" />
+    <Compile Include="Graphics\Particles\ParticleVertex.cs" />
+    <Compile Include="Graphics\Particles\SmallFireParticleSystem.cs" />
+    <Compile Include="Graphics\Particles\SmokePlumeParticleSystem.cs" />
+    <Compile Include="Graphics\Particles\WaterfallChurnParticleSystem.cs" />
+    <Compile Include="Graphics\Particles\WaterfallParticleSystem.cs" />
+    <Compile Include="Graphics\Primitives\CubePrimitive.cs" />
+    <Compile Include="Graphics\Primitives\CylinderPrimitive.cs" />
+    <Compile Include="Graphics\Primitives\GeometricPrimitive.cs" />
+    <Compile Include="Graphics\Primitives\SpherePrimitive.cs" />
+    <Compile Include="Graphics\VertexPosition.cs" />
+    <Compile Include="Graphics\VertexPositionNormal.cs" />
+    <Compile Include="Input\InputManager.cs" />
+    <Compile Include="Logging\FileSystemLog.cs" />
+    <Compile Include="Logging\ILog.cs" />
+    <Compile Include="Messaging\IPostOffice.cs" />
+    <Compile Include="Messaging\PostOffice.cs" />
+    <Compile Include="Mixins\Position.cs" />
+    <Compile Include="Performance\FrameRateMonitor.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Messaging\MessageType.cs" />
+    <Compile Include="Mixins\Meter.cs" />
+    <Compile Include="Messaging\PostMan.cs" />
+    <Compile Include="Terrain\ITerrain.cs" />
+    <Compile Include="Worlds\IWorld.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\XNA Game Studio\Microsoft.Xna.GameStudio.targets" />
+  <!--
+      To modify your build process, add your task inside one of the targets below and uncomment it. 
+      Other similar extension points exist, see Microsoft.Common.targets.
+      <Target Name="BeforeBuild">
+      </Target>
+      <Target Name="AfterBuild">
+      </Target>
+    -->
+</Project>

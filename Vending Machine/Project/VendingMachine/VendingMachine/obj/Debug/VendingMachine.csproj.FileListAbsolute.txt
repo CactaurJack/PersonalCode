@@ -1,0 +1,15 @@
+C:\Documents and Settings\Greg\Desktop\501 Vending Machine\Project\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe
+C:\Documents and Settings\Greg\Desktop\501 Vending Machine\Project\VendingMachine\VendingMachine\bin\Debug\VendingMachine.pdb
+C:\Documents and Settings\Greg\Desktop\501 Vending Machine\Project\VendingMachine\VendingMachine\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Greg\Desktop\501 Vending Machine\Project\VendingMachine\VendingMachine\obj\Debug\VendingMachine.Form1.resources
+C:\Documents and Settings\Greg\Desktop\501 Vending Machine\Project\VendingMachine\VendingMachine\obj\Debug\VendingMachine.Properties.Resources.resources
+C:\Documents and Settings\Greg\Desktop\501 Vending Machine\Project\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.GenerateResource.Cache
+C:\Documents and Settings\Greg\Desktop\501 Vending Machine\Project\VendingMachine\VendingMachine\obj\Debug\VendingMachine.exe
+C:\Documents and Settings\Greg\Desktop\501 Vending Machine\Project\VendingMachine\VendingMachine\obj\Debug\VendingMachine.pdb
+C:\Users\Greg\Documents\Personal Code\Old School Stuff\Fall '09\CIS 501\501 Vending Machine\Project\VendingMachine\VendingMachine\obj\Debug\VendingMachine.exe
+C:\Users\Greg\Documents\Personal Code\Old School Stuff\Fall '09\CIS 501\501 Vending Machine\Project\VendingMachine\VendingMachine\obj\Debug\VendingMachine.pdb
+C:\Users\Greg\Documents\Personal Code\Old School Stuff\Fall '09\CIS 501\501 Vending Machine\Project\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe
+C:\Users\Greg\Documents\Personal Code\Old School Stuff\Fall '09\CIS 501\501 Vending Machine\Project\VendingMachine\VendingMachine\bin\Debug\VendingMachine.pdb
+C:\Users\Greg\Documents\Personal Code\Old School Stuff\Fall '09\CIS 501\501 Vending Machine\Project\VendingMachine\VendingMachine\obj\Debug\VendingMachine.Form1.resources
+C:\Users\Greg\Documents\Personal Code\Old School Stuff\Fall '09\CIS 501\501 Vending Machine\Project\VendingMachine\VendingMachine\obj\Debug\VendingMachine.Properties.Resources.resources
+C:\Users\Greg\Documents\Personal Code\Old School Stuff\Fall '09\CIS 501\501 Vending Machine\Project\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.GenerateResource.Cache
